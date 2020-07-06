@@ -6,5 +6,5 @@ Currently it is for one player only.
 I have not used any kind of artificial intelligence for the computer player,
 every move by computer is random.
 
-In future, maybe I'll be adding some kind of artificial intelligence for the 
+In future, I'll try to add some kind of artificial intelligence for the 
 computer player.
